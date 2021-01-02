@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Udemy\bin\Debug\netcoreapp3.1\Udemy.exe
+C:\Users\Alex\source\repos\Udemy\bin\Debug\netcoreapp3.1\Udemy.deps.json
+C:\Users\Alex\source\repos\Udemy\bin\Debug\netcoreapp3.1\Udemy.runtimeconfig.json
+C:\Users\Alex\source\repos\Udemy\bin\Debug\netcoreapp3.1\Udemy.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Udemy\bin\Debug\netcoreapp3.1\Udemy.dll
+C:\Users\Alex\source\repos\Udemy\bin\Debug\netcoreapp3.1\Udemy.pdb
+C:\Users\Alex\source\repos\Udemy\obj\Debug\netcoreapp3.1\Udemy.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Udemy\obj\Debug\netcoreapp3.1\Udemy.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Udemy\obj\Debug\netcoreapp3.1\Udemy.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Udemy\obj\Debug\netcoreapp3.1\Udemy.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Udemy\obj\Debug\netcoreapp3.1\Udemy.dll
+C:\Users\Alex\source\repos\Udemy\obj\Debug\netcoreapp3.1\Udemy.pdb
+C:\Users\Alex\source\repos\Udemy\obj\Debug\netcoreapp3.1\Udemy.genruntimeconfig.cache
